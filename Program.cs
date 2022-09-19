@@ -6,7 +6,7 @@ namespace aplicacion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Adios Mundo");
 
         }
     }
